@@ -5,11 +5,11 @@ import React, { Component} from 'react'
 export default class SingleRoom extends Component {
     render() {
         return (
-            <div className="App">
+            <div>
                 SingleRoom
             </div>
         );
     }
 }
 
-export default Home;
+
